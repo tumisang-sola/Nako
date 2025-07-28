@@ -1,2 +1,0 @@
-# Nako
-Localized Date Formatter
