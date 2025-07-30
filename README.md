@@ -110,7 +110,7 @@ console.log(dateStr);
 
 ### Languages include:
 
-- **African**: Swahili, Hausa, Yoruba, Amharic, Xhosa, Oromo, Fula, Kikuyu, Zulu, etc.
+- **African**: Sesotho,Swahili, Hausa, Yoruba, Amharic, Xhosa, Oromo, Fula, Kikuyu, Zulu, etc.
 - **European**: English, French, German, Spanish, Italian, Portuguese, Dutch, Swedish, Greek, Russian.
 - **Americas & Others**: Hispanic American, Quechua, Nahuatl, Guarani, Mayan, Tupi-Guarani, Middle Eastern languages like Arabic, Persian, Turkish, Hebrew, etc.
 
