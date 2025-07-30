@@ -297,7 +297,7 @@ This module is provided under permissive licensing. Use, modify, and distribute 
 
 ## Support & Feedback
 
-For questions, issues, or feature requests, open an issue on the [GitHub repository](https://github.com/yourusername/yourrepository).
+For questions, issues, or feature requests, open an issue on the [GitHub repository](https://github.com/tumisang-sola/Nako).
 
 ---
 
