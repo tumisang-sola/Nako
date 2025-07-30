@@ -45,14 +45,14 @@ A flexible, multi-language date formatting module supporting custom patterns, va
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/tumisang-sola/Nako.git
 ```
 
 *(Replace with your actual repository URL)*
 
 ### 2. Download ZIP from GitHub
 
-1. Visit the repository on [GitHub](https://github.com/yourusername/yourrepository).
+1. Visit the repository on [GitHub](https://github.com/tumisang-sola/Nako).
 2. Click the **Code** button.
 3. Select **Download ZIP**.
 4. Save and extract the archive to your preferred location.
